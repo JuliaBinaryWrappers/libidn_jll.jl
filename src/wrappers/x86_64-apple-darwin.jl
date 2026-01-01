@@ -2,19 +2,19 @@
 export idn, libidn
 
 JLLWrappers.@generate_wrapper_header("libidn")
-JLLWrappers.@declare_executable_product(idn)
 JLLWrappers.@declare_library_product(libidn, "@rpath/libidn.12.dylib")
+JLLWrappers.@declare_executable_product(idn)
 function __init__()
     JLLWrappers.@generate_init_header()
-    JLLWrappers.@init_executable_product(
-        idn,
-        "bin/idn",
-    )
-
     JLLWrappers.@init_library_product(
         libidn,
         "lib/libidn.12.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_executable_product(
+        idn,
+        "bin/idn",
     )
 
     JLLWrappers.@generate_init_footer()
