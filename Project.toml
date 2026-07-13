@@ -1,6 +1,6 @@
 name = "libidn_jll"
 uuid = "f0f5855d-14eb-5155-b6cb-9f6c251f73bb"
-version = "1.43.0+0"
+version = "1.44.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

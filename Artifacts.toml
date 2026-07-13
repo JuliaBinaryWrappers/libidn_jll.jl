@@ -1,160 +1,160 @@
 [[libidn]]
 arch = "aarch64"
-git-tree-sha1 = "f753dca4ca05fe62a843c519989873d0b7494038"
+git-tree-sha1 = "8e2635c712827914fac5b3c03cf4faf8563e36b4"
 os = "macos"
 
     [[libidn.download]]
-    sha256 = "ab6476a825d3a807eb205df7253b2257befb2afda7d9b85c3756dd2e97e5383d"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "c8a56b2e25827c2ba2cb8fdbb6fa5360edfdeba525fae0e402aa21288c070867"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.aarch64-apple-darwin.tar.gz"
 [[libidn]]
 arch = "aarch64"
-git-tree-sha1 = "240898c5e8c1c085ea8f906eb4b0a45c25a50e0a"
+git-tree-sha1 = "7a929a45c2872c512b740026c864328bcf9dc38a"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "e96d648e3392b1340f0639233fe6b83e8b6b0b6f81a4e287f48c9a9892f8d491"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "b2e090f2b647a2e0a09d02b9b8984529d42fc137ecd5639a9018d19ab186a75f"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.aarch64-linux-gnu.tar.gz"
 [[libidn]]
 arch = "aarch64"
-git-tree-sha1 = "4b6968e5aab3d6b026b0d9e373012dbe97929e34"
+git-tree-sha1 = "01b38909d1e0e9987acead4834002f210c2af575"
 libc = "musl"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "e56d8c28b049c3654d37dcdc35024736491b63ac5c93b67873a1e80bd901808f"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.aarch64-linux-musl.tar.gz"
+    sha256 = "73682218501a72070b620723b25025ff0b8f30c601cfe72df069f5bdd37be917"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.aarch64-linux-musl.tar.gz"
 [[libidn]]
 arch = "aarch64"
-git-tree-sha1 = "00589e50ecedd8d52c6547b8d22420d7e94482a3"
+git-tree-sha1 = "44da1a63fe3a8ec72b06737a8a245df6c44b07a6"
 os = "freebsd"
 
     [[libidn.download]]
-    sha256 = "f5139fea0c3a028fd91e1526d5c72fad87b6fc95c444ca89ddd8a1a2f8ce200d"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "59d07aff33e579fb19c5ab073ca78f0c274678948e9d9cae0319b2ee00c9ab2a"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.aarch64-unknown-freebsd.tar.gz"
 [[libidn]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "880da509b5ee8b4cce498fdaafa74e06f6820838"
+git-tree-sha1 = "38dc1efa08c4c3d6930e29a9916bd6cfd9e71d9a"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "3883ae48ad03150f651b9b2f0f1a647732ebe56c18d87553480c8e5ed82388d8"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9e837a1d963e097726a39d0468278742612a7c6ba480665ba8ad71e42030592e"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.armv6l-linux-gnueabihf.tar.gz"
 [[libidn]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c795c0771c3993722f034c3daeffbdba1ba7e64"
+git-tree-sha1 = "da30c41ff18f784e0d68eadd5c99bda26471b00a"
 libc = "musl"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "791882a56a7931c7cd5a768bda7c6688c33a45a5f43e2d9032d6699a3fc15277"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "8a8a43732ebba2f42e6517dc2f01fab8213e4742a9888148a18c0d2231ba75c3"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.armv6l-linux-musleabihf.tar.gz"
 [[libidn]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "544295bf587e108bf8ab0fe62b256a30387bd69d"
+git-tree-sha1 = "ab710157501b2abe8adcc8a5a1682476e86a9505"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "f289de22727a484378a0fd0e686b1e33285a3f7560d2bf7aafddacf0103106fe"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4e3a36092e1a3030d79618ce709b45aef135df91811a4b1b9c0a64e2fb532e3c"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.armv7l-linux-gnueabihf.tar.gz"
 [[libidn]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e581a7a594c92ee009fda1ab07438594208ce22"
+git-tree-sha1 = "54400e788f60203b6696ef4e94f56d2cdebb2787"
 libc = "musl"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "94f2cc5f927cc739e4a2f71629e8380dcaa9b93b9e923a0f323046f0bc2465b8"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8248f01eb1f9d186fa037a2bc773d1ccbafaf799e73d762f5d5615e8b3739422"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.armv7l-linux-musleabihf.tar.gz"
 [[libidn]]
 arch = "i686"
-git-tree-sha1 = "b07a3d078cfdf44b8a4b38d501ff68d6a73a58b8"
+git-tree-sha1 = "851f1c09e81e1495e078616981b3db9340a5bc62"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "c3cea3b194d92e067019c40af78c6b57028278aa944c3bd55328de0150f428a7"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.i686-linux-gnu.tar.gz"
+    sha256 = "9ac3db15bac1599ab0826bf2a2ce4aa5d3bbca0767553a6556c1ef6dedaf8577"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.i686-linux-gnu.tar.gz"
 [[libidn]]
 arch = "i686"
-git-tree-sha1 = "5f69f203918f18a0093cc22568a8a5d736d48900"
+git-tree-sha1 = "d666feff4c42163e9119d00bc2b71c4cea629303"
 libc = "musl"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "625bb56acdc3e48d14acb6063171bd8cf6cef1710902e3cb17cd9b93dd27bab1"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.i686-linux-musl.tar.gz"
+    sha256 = "285377f06ce80d6318af141586728d2a1a3ace6e587eb2e847d1a0404eb714cf"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.i686-linux-musl.tar.gz"
 [[libidn]]
 arch = "i686"
-git-tree-sha1 = "7688fcca9891981e0da651e9bcc479d9ed6c8c86"
+git-tree-sha1 = "3348fefecd6d056f96f814be3f275919410160b1"
 os = "windows"
 
     [[libidn.download]]
-    sha256 = "27f76ec44091a4a24762fd4cee1458beffa920ae789da885ceedb918288dac01"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.i686-w64-mingw32.tar.gz"
+    sha256 = "37d7b975bf34107610fa9928917c2e3ce16f4e98b4ddc6f27e1b651626def56e"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.i686-w64-mingw32.tar.gz"
 [[libidn]]
 arch = "powerpc64le"
-git-tree-sha1 = "8ecc8ef658e4a25a16678d6ea6b10974eb42d650"
+git-tree-sha1 = "1ffddeeb9019bfbf2a97ce5f7c1aca20e0b203f9"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "98793159665f2f05a916e5748d43edaef20e21542cc32b998344005970f01e74"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a5d748128900eb9399de7760fa558f226b3754ac316cbfad3cdc62259171e182"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.powerpc64le-linux-gnu.tar.gz"
 [[libidn]]
 arch = "riscv64"
-git-tree-sha1 = "ab5accfa6e93720a3466759e3fa78e324778e3d3"
+git-tree-sha1 = "d03a59b5f06f24a65ef7471b98304368a7154cf5"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "94db8d33a84c1785fa5a630acc6d5f8265c6b951df0f0c9fcc9da47a41f8e0a6"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "fd983319df876d9769a657e6fb948cb58ca0cfa16c2b1eaa2e141cb200e518bf"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.riscv64-linux-gnu.tar.gz"
 [[libidn]]
 arch = "x86_64"
-git-tree-sha1 = "07bb335f86b1dcf5f0f37807dc528d243c0a3430"
+git-tree-sha1 = "e6fc44a380456a7e581fc0888f3b7b39804de2ff"
 os = "macos"
 
     [[libidn.download]]
-    sha256 = "f4fb4e8141e8325b5f77d227edb98ddd78ebd830fb063bd53364b9b1242a8c92"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "813ddedcebd9b675d6e9bf700935d6571759c2e5841e9235993d7858bea651f3"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.x86_64-apple-darwin.tar.gz"
 [[libidn]]
 arch = "x86_64"
-git-tree-sha1 = "219637f9e780c5516c54f9de2990a60c8913e0b1"
+git-tree-sha1 = "39d71253b8dec6ad61046769f84cd31c04400da8"
 libc = "glibc"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "8bfb4135d8f3487061af74cc9fb2eaa8a44aba0be2b7244c6797d3b499a9fdb7"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "0e996c770867bb7a166b277045109024045df41bdc759660ed374d3201ab50d2"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.x86_64-linux-gnu.tar.gz"
 [[libidn]]
 arch = "x86_64"
-git-tree-sha1 = "b353f39b5c3860647aed9615b491bfefbd1dba90"
+git-tree-sha1 = "adf20bb205d0daafc697851d83e10031ea847942"
 libc = "musl"
 os = "linux"
 
     [[libidn.download]]
-    sha256 = "5b8778164277dd7fe10245e7e8be23f3bdc7b486c8628e6d6fc49f1fa1dc517c"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.x86_64-linux-musl.tar.gz"
+    sha256 = "96d25aa6c50d39e97da7a66a2187ed49c1f2d00f1bae233248a8c93846446d5d"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.x86_64-linux-musl.tar.gz"
 [[libidn]]
 arch = "x86_64"
-git-tree-sha1 = "4151370a37a0d9865749927b01fb3aa7552c4fb3"
+git-tree-sha1 = "e8f5e5f067594a4dc63fb35e0b940e4ee680012d"
 os = "freebsd"
 
     [[libidn.download]]
-    sha256 = "046f0a7506e731e2667e16f65866a94ab16eb87f2df9aa4423490a9b4a137fab"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c4c49298ec171ab9f94b0add51667917315b2c6595ec2156d04cbc3da079c7a7"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.x86_64-unknown-freebsd.tar.gz"
 [[libidn]]
 arch = "x86_64"
-git-tree-sha1 = "a2858b00d1689ab5a1d8ba1467c346e21b075187"
+git-tree-sha1 = "0ae28e5ff70c41cd2af00de917bfd9c1b6da6bf9"
 os = "windows"
 
     [[libidn.download]]
-    sha256 = "5d9235a20f11c7264b34f0c09609b416831aa49eb58a706aaede3228738854f5"
-    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.43.0+0/libidn.v1.43.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ec122079ffba758dd934430dcbb0b89d8f7c334ef951120e67004d8b32e235f5"
+    url = "https://github.com/JuliaBinaryWrappers/libidn_jll.jl/releases/download/libidn-v1.44.0+0/libidn.v1.44.0.x86_64-w64-mingw32.tar.gz"
